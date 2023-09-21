@@ -16,7 +16,8 @@ body{
 .central-calc{
     padding: .3em;
     background-color: #233237;
-    min-width: 400px;
+    min-width: 300px;
+    max-width: 100%;
     border: 1px solid #EAC67A;
     border-radius: 15px;
 }
